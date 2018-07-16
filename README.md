@@ -1,2 +1,2 @@
 # phpstudy
-This a a repository for study PHP language.
+This a repository for study PHP language.
